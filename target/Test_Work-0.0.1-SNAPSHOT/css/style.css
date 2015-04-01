@@ -1,0 +1,32 @@
+body {
+    background: #DCDCDC;
+    padding: 55px;
+}
+
+p {
+    text-align: justify; 
+}
+
+.line {
+    border: none;
+    background-color: black;
+    color: black; 
+    height: 1px; 
+   }
+
+.scope > img {
+	height:290px;
+	overflow: hidden; 
+	width: 204px;
+}
+
+html { 
+ position:relative; 
+ min-height:97%;
+}
+
+#footer {
+ height: 0px; 
+ position: absolute;
+ bottom: 0;
+}

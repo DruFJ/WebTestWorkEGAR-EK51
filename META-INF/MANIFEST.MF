@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Test_Work
+Bundle-SymbolicName: Test_Work
+Bundle-Version: 1.0.0.qualifier
+Export-Package: beans.actions,
+ beans.tickets,
+ dao,
+ servlets,
+ servlets.commands
